@@ -34,3 +34,8 @@ npm-debug.log
 # directories created by docker-compose.yml
 mongo-data/
 letsencrypt/
+
+# safety removals
+start.sh
+node_modules.*/
+
